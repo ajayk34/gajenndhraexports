@@ -1120,6 +1120,16 @@
   margin-right: var(--dl-space-space-twounits);
   text-decoration: none;
 }
+.home-navlink3 {
+  color: var(--dl-color-scheme-green80);
+  margin-right: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.home-navlink4 {
+  color: var(--dl-color-scheme-green80);
+  margin-right: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
 .home-text03 {
   color: var(--dl-color-scheme-green80);
   margin-right: var(--dl-space-space-twounits);
