@@ -1,0 +1,221 @@
+.gallery31-gallery3 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.gallery31-max-width {
+  gap: var(--dl-space-space-threeunits);
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.gallery31-section-title {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: auto;
+  display: flex;
+  max-width: 800px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.gallery31-text {
+  text-align: center;
+}
+.gallery31-text1 {
+  text-align: center;
+}
+.gallery31-container {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: 100%;
+}
+.gallery31-container1 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.gallery31-image1 {
+  width: 100%;
+  height: 340px;
+  max-width: 600px;
+  align-self: center;
+  animation-name: slideInLeft;
+  animation-delay: 0s;
+  animation-duration: 1000ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.gallery31-container2 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.gallery31-image2 {
+  width: 100%;
+  height: 340px;
+  max-width: 600px;
+  align-self: center;
+  animation-name: slideInDown;
+  animation-delay: 0s;
+  animation-duration: 1000ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.gallery31-container3 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.gallery31-image3 {
+  width: 100%;
+  height: 340px;
+  max-width: 600px;
+  animation-name: slideInDown;
+  animation-delay: 0s;
+  animation-duration: 1000ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.gallery31-container4 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.gallery31-image4 {
+  width: 100%;
+  height: 340px;
+  max-width: 600px;
+  animation-name: slideInRight;
+  animation-delay: 0s;
+  animation-duration: 1000ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.gallery31-container5 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.gallery31-image5 {
+  width: 100%;
+  height: 340px;
+  max-width: 600px;
+  animation-name: slideInLeft;
+  animation-delay: 0s;
+  animation-duration: 1000ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.gallery31-container6 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.gallery31-image6 {
+  width: 100%;
+  height: 340px;
+  max-width: 600px;
+  animation-name: slideInUp;
+  animation-delay: 0s;
+  animation-duration: 1000ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.gallery31-container7 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.gallery31-image7 {
+  width: 100%;
+  height: 340px;
+  max-width: 600px;
+  animation-name: slideInUp;
+  animation-delay: 0s;
+  animation-duration: 1000ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+.gallery31-container8 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.gallery31-image8 {
+  width: 100%;
+  height: 340px;
+  max-width: 600px;
+  animation-name: slideInRight;
+  animation-delay: 0s;
+  animation-duration: 1000ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+@media(max-width: 991px) {
+  .gallery31-image1 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 400px;
+  }
+  .gallery31-image2 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 400px;
+  }
+  .gallery31-image3 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 400px;
+  }
+  .gallery31-image4 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 400px;
+  }
+  .gallery31-image5 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 400px;
+  }
+  .gallery31-image6 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 400px;
+  }
+  .gallery31-image7 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 400px;
+  }
+  .gallery31-image8 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 400px;
+  }
+}
+@media(max-width: 767px) {
+  .gallery31-section-title {
+    gap: var(--dl-space-space-oneandhalfunits);
+  }
+}
